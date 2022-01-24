@@ -8,6 +8,7 @@ public class SpringBootSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSecurityApplication.class, args);
+		System.out.println("Spring Boot Security.....!!");
 	}
 
 }
